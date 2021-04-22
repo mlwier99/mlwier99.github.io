@@ -3,8 +3,10 @@
  
  # Recent Projects
  
-[**Indigenous Tribes Environmental Policy Data**](https://github.com/mlwier99/tribal_climate_actions)
+[###Indigenous Tribes Environmental Policy Data###](https://github.com/mlwier99/tribal_climate_actions)
+
 Under construction
 
 [**State Legislation Automated Data Parsing**](https://github.com/mlwier99/legislative_legiscanrr)
+
 Under construction
