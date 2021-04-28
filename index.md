@@ -22,3 +22,9 @@ Scripts for formatting, preparing, and analysis for my Master's thesis. Includes
 [**Amicus Brief Data and Analysis for Government Agencies**](https://github.com/mlwier99/amicus_brief_bureaucracy)
 
 Includes for scripts for preperation and analysis; research papers for three iterations of the project; and extended appendices. Raw data on amicus brief submissions for the included government agencies can be made available on request. 
+
+[**Differences among Demographic Groups in Perceptions of Economic Evaluation**](https://github.com/mlwier99/econ_perceptions_demgroups)
+
+Scripts, final manuscripts, pre-registration submission, log files, and presentation for my project on the differences in economic evaluations among different demograhic groups. Data used is from the American National Election Survey. Additional documentation and data can be available upon request. Repository is currently under construction.  
+
+
