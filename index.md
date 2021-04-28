@@ -11,7 +11,7 @@ Python scripts for systematically generating Google search results, retrieving r
 
 Scripts for parsing JSON data on state legislatures collected from Legiscan API, combining independent collections into useful data sets, and preparing these data sets for analysis in R and Stata.
 
-[**Federal Campaign Finance Data (1980-2020)**](https://github.com/mlwier99/campaign-finance-retrieval)
+[**Federal Campaign Finance Data (1980-2020)**](https://github.com/mlwier99/fec_data)
 
 R and bash scripts for automated retrieval, decompression, and preparation of FEC data on campaign contributions and expenditures in US federal election campaigns. Repository is currently under construction.  
 
