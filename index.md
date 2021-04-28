@@ -5,7 +5,7 @@
  
 [**Indigenous Tribes Environmental Policy Data**](https://github.com/mlwier99/tribe-climate-change-data)
 
-Python scripts for systematically generating Google search results, retrieving relevant documents, and organizing results in preparation for coding of tribal environmental policies. I also coded these data. You can view my codebook [here](https://github.com/mlwier99/tribal_climate_actions/environmental_data_codebook.pdf). Data may be available on request.
+Python scripts for systematically generating Google search results, retrieving relevant documents, and organizing results in preparation for coding of tribal environmental policies. I also coded these data. You can view my codebook [here](https://github.com/mlwier99/tribe-climate-change-data/blob/main/Codebook.docx). Data may be available on request. Currently being updated.
 
 [**State Legislation Automated Data Parsing**](https://github.com/mlwier99/legislative_legiscanrr)
 
