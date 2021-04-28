@@ -17,4 +17,8 @@ R and bash scripts for automated retrieval, decompression, and preparation of FE
 
 [**Gender Dynamics in the U.S. Circuit and District Courts**](https://github.com/mlwier99/masters-gender-lowercourts)
 
-Scripts for formatting, preparing, and analysis for my Master's thesis. Includes formatting and preparing the Federal Judicial Directory, U.S. district court ideology scores, and U.S. Courts of Appeals ideology scores. Additional data includes Sen (2015) data on the reversal rates for the district courts, which can be made avaliable on request. 
+Scripts for formatting, preparing, and analysis for my Master's thesis. Includes formatting and preparing the Federal Judicial Directory, U.S. district court ideology scores, and U.S. Courts of Appeals ideology scores. Additional data includes Sen (2015) data on the reversal rates for the district courts, which can be made available on request. Repository is currently under construction.  
+
+[**Amicus Brief Data and Analysis for Government Agencies**](https://github.com/mlwier99/amicus_brief_bureaucracy)
+
+Includes for scripts for preperation and analysis; research papers for three iterations of the project; and extended appendices. Raw data on amicus brief submissions for the included government agencies can be made available on request. 
